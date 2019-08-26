@@ -16,6 +16,10 @@ The MMO-500 can integrate most of the available light weight arms. Due to its bi
 
 The platform's movement can be controlled by the Robot Operating System (ROS).
 
+# Documentation
+
+Please find our documentations at https://docs.neobotix.de/
+
 # Contact information
 
 For more information please visit our website at www.neobotix-robots.com. 
