@@ -4,7 +4,7 @@ This package contains configuration and launch files for Neobotix MMO-500.
 
 
 <p align="center">
-  <img src="mmo500.jpg">
+  <img src="mmo500.jpg" width="200" height="400">
 </p>
 
 
