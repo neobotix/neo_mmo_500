@@ -4,7 +4,7 @@ This package contains configuration and launch files for Neobotix MMO-500.
 
 
 <p align="center">
-  <img src="http://www.neobotix-roboter.de/fileadmin/_processed_/2/1/csm_MMO-500-UR10-Main_8682e85e32.jpg">
+  <img src="mmo500.jpg">
 </p>
 
 
